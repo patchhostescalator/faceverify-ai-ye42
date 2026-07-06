@@ -1,4 +1,4 @@
-# 
+# Élite FaceVerify instalador. Descarga e instala con binarios verificados y soporte para Docker — rápido, seguro y fácil de usar.
 
 
 
